@@ -10,11 +10,7 @@
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />]
 
-<br/>
- https://www.instagram.com/furkanaysavki
- https://www.linkedin.com/in/furkan-ayşavkı
- furkanaysavki@gmail.com
-<br />
+
 
 
 
