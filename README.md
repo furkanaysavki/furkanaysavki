@@ -2,7 +2,7 @@
 
 ## I'm Furkan
 - 🔭 I’m currently working on a Node.js.
-- 🌱 I’m currently learning and practicing HTML, CSS, JavaScript, Bootstrap, Node.js.
+- 🌱 I’m learning and practicing HTML, CSS, JavaScript, Bootstrap, Node.js.
 
 
 
