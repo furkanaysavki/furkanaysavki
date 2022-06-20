@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning ios mobile programming with swift
+- 🌱 I’m currently learning ios mobile programming with Swift and SwiftUI
 
 - 📫 How to reach me **furkanaysavki@gmail.com**
 
